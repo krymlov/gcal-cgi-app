@@ -1,0 +1,1 @@
+gcal_cgi.exe "q=calendar&lc=Kyiv&la=50.45010&lo=30.52340&ty=2019&tm=1&td=1&tc=4018&lt=2E00&dst=3x0x5x0x10x0x5x0" > Kyiv.xml
