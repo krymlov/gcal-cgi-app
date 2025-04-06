@@ -340,7 +340,7 @@ void InitGlobalStrings(void)
 	gstr[337] = "";
 	gstr[338] = "";
 	gstr[339] = "[c3]Srimati Sita Thakurani (Sri Advaita's consort) -- Appearance";
-	gstr[340] = "[c1]Lalita sasti";
+	gstr[340] = "";
 	gstr[341] = "";
 	gstr[342] = "[c0]Radhastami: Appearance of Srimati Radharani[f:1:Srimati Radharani]";
 	gstr[343] = "";
@@ -349,7 +349,7 @@ void InitGlobalStrings(void)
 	gstr[346] = "[c0]Sri Vamana Dvadasi: Appearance of Lord Vamanadeva[f:1:Vamanadeva]#[c3]Srila Jiva Gosvami -- Appearance";
 	gstr[347] = "[c2]Srila Bhaktivinoda Thakura -- Appearance[f:1:Bhaktivinoda Thakura]";
 	gstr[348] = "[c1]Ananta Caturdasi Vrata#[c3]Srila Haridasa Thakura -- Disappearance";
-	gstr[349] = "[c1]Sri Visvarupa Mahotsava#[c4]Acceptance of sannyasa by Srila Prabhupada";
+	gstr[349] = "[c1]Sri Visvarupa Mahotsava#[c4]Acceptance of sannyasa by Srila Prabhupada#[c5]Bhadrapada Purnima";
 	gstr[350] = "";
 	gstr[351] = "";
 	gstr[352] = "";
@@ -387,7 +387,7 @@ void InitGlobalStrings(void)
 	gstr[384] = "[c3]Srila Narottama Dasa Thakura -- Disappearance";
 	gstr[385] = "";
 	gstr[386] = "";
-	gstr[387] = "[c1]Appearance of Radha Kunda, snana dana#[c1]Bahulastami";
+	gstr[387] = "[c1]Bahulastami";
 	gstr[388] = "[c3]Sri Virabhadra -- Appearance";
 	gstr[389] = "";
 	gstr[390] = "";
@@ -559,7 +559,7 @@ void InitGlobalStrings(void)
 	gstr[556] = "[c1]Damanakaropana Dvadasi";
 	gstr[557] = "";
 	gstr[558] = "";
-	gstr[559] = "[c1]Sri Balarama Rasayatra#[c1]Sri Krsna Vasanta Rasa#[c3]Sri Vamsivadana Thakura -- Appearance#[c3]Sri Syamananda Prabhu -- Appearance";
+	gstr[559] = "[c1]Sri Balarama Rasayatra#[c1]Sri Krsna Vasanta Rasa#[c2]Appearance of Radha Kunda, snana dana#[c3]Sri Vamsivadana Thakura -- Appearance#[c3]Sri Syamananda Prabhu -- Appearance";
 
 	// mena ekadasi
 	gstr[560] = "Varuthini Ekadasi";
